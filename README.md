@@ -31,5 +31,5 @@ This repository showcases my resume and key data engineering projects, built usi
 ---
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/dilip-sv]([https://linkedin.com/in/dilip-sv](https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dilip-s-v-989981227))
-- GitHub: [github.com/your-username](https://github.com/Dilipsv-99)
+- LinkedIn:https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=dilip-s-v-989981227
+- GitHub: https://github.com/Dilipsv-99
